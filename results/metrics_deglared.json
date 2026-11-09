@@ -1,0 +1,71 @@
+{
+  "tag": "deglared",
+  "data": "deglared",
+  "test_accuracy": 0.925,
+  "test_f1_macro": 0.9250617474529176,
+  "confusion_matrix": [
+    [
+      38,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      38,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      36,
+      3
+    ],
+    [
+      1,
+      0,
+      3,
+      36
+    ]
+  ],
+  "report": {
+    "Chronic otitis media": {
+      "precision": 0.9047619047619048,
+      "recall": 0.95,
+      "f1-score": 0.926829268292683,
+      "support": 40.0
+    },
+    "Earwax plug": {
+      "precision": 0.9743589743589743,
+      "recall": 0.95,
+      "f1-score": 0.9620253164556962,
+      "support": 40.0
+    },
+    "Myringosclerosis": {
+      "precision": 0.9,
+      "recall": 0.9,
+      "f1-score": 0.9,
+      "support": 40.0
+    },
+    "Normal": {
+      "precision": 0.9230769230769231,
+      "recall": 0.9,
+      "f1-score": 0.9113924050632911,
+      "support": 40.0
+    },
+    "accuracy": 0.925,
+    "macro avg": {
+      "precision": 0.9255494505494506,
+      "recall": 0.9249999999999999,
+      "f1-score": 0.9250617474529176,
+      "support": 160.0
+    },
+    "weighted avg": {
+      "precision": 0.9255494505494506,
+      "recall": 0.925,
+      "f1-score": 0.9250617474529175,
+      "support": 160.0
+    }
+  }
+}

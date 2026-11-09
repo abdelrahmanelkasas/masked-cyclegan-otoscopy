@@ -1,0 +1,8 @@
+{
+  "pairs": 454,
+  "glare_ratio_original_mean": 0.06430804624439201,
+  "glare_ratio_deglared_mean": 0.003713212654257734,
+  "glare_reduction_percent": 94.22589726929927,
+  "ssim_mean": 0.9570275318198713,
+  "psnr_mean": Infinity
+}

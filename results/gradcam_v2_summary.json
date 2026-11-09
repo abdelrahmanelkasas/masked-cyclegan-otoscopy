@@ -1,0 +1,7 @@
+{
+  "n": 12,
+  "glare_attention_ratio_original_mean": 1.7129230896631877,
+  "glare_attention_ratio_deglared_mean": 0.953860471645991,
+  "cam_inside_glare_original_mean": 0.16258315493663153,
+  "cam_inside_glare_deglared_mean": 0.09840656102945407
+}

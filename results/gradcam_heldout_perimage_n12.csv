@@ -1,0 +1,13 @@
+image,cls,pred_orig,pred_deg,glare,r_o,r_d,i_o,i_d
+Datos/Testing/Earwax plug/e31.jpg,Earwax plug,Earwax plug,Earwax plug,0.2048,1.0818644762039185,0.8705362677574158,0.2776715159416199,0.2188732624053955
+Datos/Training-validation/Earwax plug/e19.jpg,Earwax plug,Earwax plug,Earwax plug,0.1987,2.118706464767456,2.110051155090332,0.1802830696105957,0.1710127294063568
+Datos/Training-validation/Earwax plug/e26.jpg,Earwax plug,Earwax plug,Earwax plug,0.189,1.3329588174819946,1.0666351318359375,0.16918864846229553,0.0928952768445015
+Datos/Testing/Earwax plug/e39.jpg,Earwax plug,Earwax plug,Earwax plug,0.1773,0.6820871233940125,0.5986022353172302,0.15349282324314117,0.11707422137260437
+Datos/Training-validation/Earwax plug/e105.jpg,Earwax plug,Earwax plug,Earwax plug,0.1734,0.4293920397758484,0.41448652744293213,0.07063179463148117,0.06805948168039322
+Datos/Training-validation/Normal/n102.jpg,Normal,Normal,Normal,0.1727,3.0427846908569336,2.331597089767456,0.25765305757522583,0.2227257490158081
+Datos/Training-validation/Earwax plug/e104.jpg,Earwax plug,Earwax plug,Earwax plug,0.1711,0.3805316984653473,0.34096843004226685,0.07656121253967285,0.06103411316871643
+Datos/Training-validation/Chronic otitis media/o70.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1706,1.0154672861099243,1.2321324348449707,0.11676224321126938,0.1455899327993393
+Datos/Training-validation/Chronic otitis media/o63.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1679,0.3223055601119995,0.40562424063682556,0.04846103489398956,0.0562710240483284
+Datos/Training-validation/Chronic otitis media/o71.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1675,0.979436457157135,1.2936571836471558,0.10679689049720764,0.15785528719425201
+Datos/Training-validation/Myringosclerosis/mi77.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1669,6.601830959320068,6.990353584289551,0.3570447266101837,0.426686555147171
+Datos/Training-validation/Chronic otitis media/o130.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1612,0.3670881390571594,0.8012503385543823,0.04639338701963425,0.11111410707235336

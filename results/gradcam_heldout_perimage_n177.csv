@@ -1,0 +1,178 @@
+image,cls,pred_orig,pred_deg,glare,r_o,r_d,i_o,i_d
+Datos/Testing/Earwax plug/e31.jpg,Earwax plug,Earwax plug,Earwax plug,0.2048,1.0818644762039185,0.8705362677574158,0.2776715159416199,0.2188732624053955
+Datos/Training-validation/Earwax plug/e19.jpg,Earwax plug,Earwax plug,Earwax plug,0.1987,2.118706464767456,2.110051155090332,0.1802830696105957,0.1710127294063568
+Datos/Training-validation/Earwax plug/e26.jpg,Earwax plug,Earwax plug,Earwax plug,0.189,1.3329588174819946,1.0666351318359375,0.16918864846229553,0.0928952768445015
+Datos/Testing/Earwax plug/e39.jpg,Earwax plug,Earwax plug,Earwax plug,0.1773,0.6820871233940125,0.5986022353172302,0.15349282324314117,0.11707422137260437
+Datos/Training-validation/Earwax plug/e105.jpg,Earwax plug,Earwax plug,Earwax plug,0.1734,0.4293920397758484,0.41448652744293213,0.07063179463148117,0.06805948168039322
+Datos/Training-validation/Normal/n102.jpg,Normal,Normal,Normal,0.1727,3.0427846908569336,2.331597089767456,0.25765305757522583,0.2227257490158081
+Datos/Training-validation/Earwax plug/e104.jpg,Earwax plug,Earwax plug,Earwax plug,0.1711,0.3805316984653473,0.34096843004226685,0.07656121253967285,0.06103411316871643
+Datos/Training-validation/Chronic otitis media/o70.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1706,1.0154672861099243,1.2321324348449707,0.11676224321126938,0.1455899327993393
+Datos/Training-validation/Chronic otitis media/o63.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1679,0.3223055601119995,0.40562424063682556,0.04846103489398956,0.0562710240483284
+Datos/Training-validation/Chronic otitis media/o71.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1675,0.979436457157135,1.2936571836471558,0.10679689049720764,0.15785528719425201
+Datos/Training-validation/Myringosclerosis/mi77.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1669,6.601830959320068,6.990353584289551,0.3570447266101837,0.426686555147171
+Datos/Training-validation/Chronic otitis media/o130.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1612,0.3670881390571594,0.8012503385543823,0.04639338701963425,0.11111410707235336
+Datos/Training-validation/Normal/n105.jpg,Normal,Normal,Normal,0.1609,2.4774460792541504,2.08003306388855,0.23053009808063507,0.2070324569940567
+Datos/Training-validation/Chronic otitis media/o91.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1604,0.20746250450611115,0.4600960910320282,0.024424344301223755,0.063768170773983
+Datos/Testing/Earwax plug/e12.jpg,Earwax plug,Earwax plug,Earwax plug,0.1558,1.4792228937149048,1.3852709531784058,0.19849666953086853,0.18544431030750275
+Datos/Training-validation/Chronic otitis media/o90.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1554,0.19530025124549866,0.5284757614135742,0.021039843559265137,0.04784615710377693
+Datos/Training-validation/Earwax plug/e128.jpg,Earwax plug,Earwax plug,Earwax plug,0.1533,1.6868081092834473,1.1073274612426758,0.3364567756652832,0.16358064115047455
+Datos/Training-validation/Earwax plug/e11.jpg,Earwax plug,Earwax plug,Earwax plug,0.1515,2.749547004699707,1.729612112045288,0.30864137411117554,0.18526442348957062
+Datos/Testing/Earwax plug/e11.jpg,Earwax plug,Earwax plug,Earwax plug,0.1515,2.749547004699707,1.729612112045288,0.30864137411117554,0.18526442348957062
+Datos/Training-validation/Normal/n100.jpg,Normal,Normal,Normal,0.1492,2.561955690383911,2.374467134475708,0.2361741065979004,0.22266800701618195
+Datos/Training-validation/Earwax plug/e177.jpg,Earwax plug,Earwax plug,Earwax plug,0.1472,1.0177403688430786,0.9606091380119324,0.1999587118625641,0.16577060520648956
+Datos/Training-validation/Chronic otitis media/o69.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1471,0.9258082509040833,0.7847638130187988,0.09421063214540482,0.08101596683263779
+Datos/Training-validation/Normal/n101.jpg,Normal,Normal,Normal,0.1466,2.566433906555176,2.3808348178863525,0.20961298048496246,0.24878361821174622
+Datos/Training-validation/Earwax plug/e170.jpg,Earwax plug,Earwax plug,Earwax plug,0.1416,0.9642345905303955,0.8637311458587646,0.16936546564102173,0.14992961287498474
+Datos/Training-validation/Chronic otitis media/o40.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1398,0.8199577927589417,0.7100024819374084,0.09252478182315826,0.08773375302553177
+Datos/Training-validation/Chronic otitis media/o123.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1367,0.22456961870193481,0.3500114381313324,0.030768703669309616,0.04280070587992668
+Datos/Training-validation/Chronic otitis media/o135.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1359,1.0154938697814941,1.6086064577102661,0.11094919592142105,0.18215638399124146
+Datos/Testing/Chronic otitis media/o13.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1359,1.0154938697814941,1.6086064577102661,0.11094919592142105,0.18215638399124146
+Datos/Training-validation/Chronic otitis media/o122.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1355,0.24316778779029846,0.3774881064891815,0.03452237322926521,0.04735337942838669
+Datos/Training-validation/Earwax plug/e160.jpg,Earwax plug,Earwax plug,Earwax plug,0.1352,1.132822871208191,1.0472345352172852,0.26374712586402893,0.21578924357891083
+Datos/Training-validation/Myringosclerosis/mi15.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.13,4.219775199890137,5.286273002624512,0.30152973532676697,0.401593953371048
+Datos/Training-validation/Chronic otitis media/o136.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1274,1.0363178253173828,1.126582384109497,0.11947029083967209,0.11788249015808105
+Datos/Testing/Chronic otitis media/o26.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1274,1.0363178253173828,1.126582384109497,0.11947029083967209,0.11788249015808105
+Datos/Training-validation/Myringosclerosis/mi148.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1268,0.9559727907180786,0.8506842851638794,0.14756116271018982,0.12127167731523514
+Datos/Training-validation/Earwax plug/e172.jpg,Earwax plug,Earwax plug,Earwax plug,0.1262,0.7832015752792358,0.7441956400871277,0.11756571382284164,0.130726158618927
+Datos/Testing/Myringosclerosis/mi7.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1254,1.6540038585662842,1.7211993932724,0.27981603145599365,0.2023574262857437
+Datos/Training-validation/Myringosclerosis/mi96.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1214,4.713072299957275,4.098122596740723,0.3016001582145691,0.31728923320770264
+Datos/Testing/Myringosclerosis/mi1.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1214,4.713072299957275,4.098122596740723,0.3016001582145691,0.31728923320770264
+Datos/Testing/Normal/n35.jpg,Normal,Normal,Normal,0.121,1.0887622833251953,0.8758741021156311,0.12773926556110382,0.10513317584991455
+Datos/Training-validation/Myringosclerosis/mi97.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1193,4.041337966918945,3.3591525554656982,0.31512513756752014,0.3027152717113495
+Datos/Training-validation/Chronic otitis media/o68.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1192,1.0680596828460693,1.0025551319122314,0.10944103449583054,0.11169826984405518
+Datos/Training-validation/Earwax plug/e37.jpg,Earwax plug,Earwax plug,Earwax plug,0.1187,0.70714271068573,0.5976717472076416,0.16812781989574432,0.11137020587921143
+Datos/Testing/Earwax plug/e40.jpg,Earwax plug,Earwax plug,Earwax plug,0.1166,1.06959068775177,0.8817586302757263,0.19670793414115906,0.18655920028686523
+Datos/Training-validation/Myringosclerosis/mi163.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1154,4.233355522155762,5.402283668518066,0.3803720772266388,0.44824787974357605
+Datos/Training-validation/Earwax plug/e42.jpg,Earwax plug,Earwax plug,Earwax plug,0.1137,0.6852331161499023,0.6538272500038147,0.09232327342033386,0.08717763423919678
+Datos/Testing/Myringosclerosis/mi34.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1132,1.5167806148529053,1.6737393140792847,0.15028293430805206,0.20322076976299286
+Datos/Training-validation/Earwax plug/e180.jpg,Earwax plug,Earwax plug,Earwax plug,0.1127,1.1261485815048218,1.1507807970046997,0.2674144506454468,0.24572288990020752
+Datos/Training-validation/Earwax plug/e146.jpg,Earwax plug,Earwax plug,Earwax plug,0.1124,0.9867897629737854,1.0462002754211426,0.11566166579723358,0.12062694132328033
+Datos/Training-validation/Earwax plug/e35.jpg,Earwax plug,Earwax plug,Earwax plug,0.1117,1.1195982694625854,0.9140796065330505,0.15899556875228882,0.1473672091960907
+Datos/Testing/Earwax plug/e35.jpg,Earwax plug,Earwax plug,Earwax plug,0.1117,1.1195982694625854,0.9140796065330505,0.15899556875228882,0.1473672091960907
+Datos/Training-validation/Earwax plug/e101.jpg,Earwax plug,Earwax plug,Earwax plug,0.1114,0.19020353257656097,0.11507674306631088,0.02917655184864998,0.016432970762252808
+Datos/Training-validation/Earwax plug/e34.jpg,Earwax plug,Earwax plug,Earwax plug,0.11,1.092360496520996,0.9096015095710754,0.19744794070720673,0.1485692858695984
+Datos/Training-validation/Chronic otitis media/o80.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1099,0.72457355260849,0.5731619000434875,0.10782584547996521,0.08406543731689453
+Datos/Training-validation/Earwax plug/e93.jpg,Earwax plug,Earwax plug,Earwax plug,0.1092,2.519092559814453,2.4698915481567383,0.5012134313583374,0.5064464211463928
+Datos/Training-validation/Myringosclerosis/mi149.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1086,1.3395081758499146,1.865660309791565,0.167587548494339,0.21632106602191925
+Datos/Training-validation/Chronic otitis media/o6.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1084,0.09795091301202774,0.13852323591709137,0.010620051994919777,0.015418173745274544
+Datos/Training-validation/Chronic otitis media/o5.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1084,0.10222762823104858,0.14774806797504425,0.011122516356408596,0.016393771395087242
+Datos/Training-validation/Chronic otitis media/o108.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1068,1.9338290691375732,1.45558500289917,0.17116785049438477,0.13234500586986542
+Datos/Training-validation/Myringosclerosis/mi26.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1067,3.3775365352630615,2.7886784076690674,0.303521990776062,0.2615174651145935
+Datos/Training-validation/Myringosclerosis/mi37.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1059,3.869785785675049,3.4934189319610596,0.3261564373970032,0.34249353408813477
+Datos/Training-validation/Earwax plug/e33.jpg,Earwax plug,Earwax plug,Earwax plug,0.1038,1.1699494123458862,1.0890663862228394,0.18797709047794342,0.182989701628685
+Datos/Training-validation/Chronic otitis media/o77.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1036,0.8923531174659729,1.0359807014465332,0.13870477676391602,0.13234272599220276
+Datos/Training-validation/Chronic otitis media/o107.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1032,1.8730833530426025,1.4341464042663574,0.15812402963638306,0.11488265544176102
+Datos/Training-validation/Myringosclerosis/mi150.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.1023,1.4529649019241333,1.9175533056259155,0.197052463889122,0.25335654616355896
+Datos/Testing/Earwax plug/e25.jpg,Earwax plug,Earwax plug,Earwax plug,0.1017,0.7740504145622253,0.771785318851471,0.11538662761449814,0.11742173880338669
+Datos/Training-validation/Chronic otitis media/o67.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.1002,0.42218074202537537,1.1940909624099731,0.04515032470226288,0.13624025881290436
+Datos/Training-validation/Myringosclerosis/mi156.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0993,7.246703624725342,8.780684471130371,0.6830357909202576,0.5771748423576355
+Datos/Testing/Myringosclerosis/mi9.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0993,7.246703624725342,8.780684471130371,0.6830357909202576,0.5771748423576355
+Datos/Training-validation/Normal/n170.jpg,Normal,Normal,Normal,0.0984,2.4396679401397705,1.7351670265197754,0.25483438372612,0.1432461142539978
+Datos/Training-validation/Earwax plug/e32.jpg,Earwax plug,Earwax plug,Earwax plug,0.0959,1.2680366039276123,1.1014769077301025,0.22731855511665344,0.17039687931537628
+Datos/Training-validation/Normal/n165.jpg,Normal,Normal,Normal,0.0956,1.3655718564987183,1.0068320035934448,0.19713959097862244,0.12925903499126434
+Datos/Training-validation/Normal/n171.jpg,Normal,Normal,Normal,0.0956,2.5906190872192383,1.7460002899169922,0.31949347257614136,0.17544260621070862
+Datos/Training-validation/Normal/n163.jpg,Normal,Normal,Normal,0.0928,1.62046480178833,1.870482325553894,0.1556522399187088,0.19260773062705994
+Datos/Testing/Normal/n16.jpg,Normal,Normal,Normal,0.0928,1.62046480178833,1.870482325553894,0.1556522399187088,0.19260773062705994
+Datos/Training-validation/Normal/n169.jpg,Normal,Normal,Normal,0.0917,2.924654006958008,1.539871096611023,0.2215612828731537,0.15342584252357483
+Datos/Training-validation/Chronic otitis media/o173.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0914,0.9095115065574646,0.9355088472366333,0.12473399192094803,0.12273367494344711
+Datos/Training-validation/Normal/n65.jpg,Normal,Normal,Normal,0.0902,0.9138808250427246,0.6567925810813904,0.13256995379924774,0.11602163314819336
+Datos/Training-validation/Chronic otitis media/o174.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0893,0.9478200078010559,1.0126276016235352,0.1095915287733078,0.1265486478805542
+Datos/Training-validation/Chronic otitis media/o49.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0862,1.759680986404419,2.1580262184143066,0.16220669448375702,0.17491912841796875
+Datos/Training-validation/Earwax plug/e137.jpg,Earwax plug,Earwax plug,Earwax plug,0.086,0.8167971968650818,0.8384519219398499,0.1315806806087494,0.13147135078907013
+Datos/Training-validation/Normal/n177.jpg,Normal,Normal,Normal,0.0847,4.573642730712891,4.1786675453186035,0.49913129210472107,0.45630568265914917
+Datos/Training-validation/Myringosclerosis/mi153.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0831,8.927367210388184,10.294376373291016,0.7356168627738953,0.6253699660301208
+Datos/Training-validation/Earwax plug/e66.jpg,Earwax plug,Earwax plug,Earwax plug,0.0829,2.136289596557617,1.713301658630371,0.2488422840833664,0.1857716292142868
+Datos/Training-validation/Normal/n62.jpg,Normal,Normal,Normal,0.0826,1.2025429010391235,1.231307029724121,0.18578864634037018,0.18951915204524994
+Datos/Training-validation/Normal/n61.jpg,Normal,Normal,Normal,0.0825,1.060396432876587,0.9204868674278259,0.10839145630598068,0.10219278931617737
+Datos/Training-validation/Earwax plug/e97.jpg,Earwax plug,Earwax plug,Earwax plug,0.0824,0.14977814257144928,0.21510353684425354,0.021343572065234184,0.02817562408745289
+Datos/Training-validation/Normal/n64.jpg,Normal,Normal,Normal,0.0824,1.1501951217651367,0.9279538989067078,0.17116965353488922,0.1148609071969986
+Datos/Training-validation/Normal/n63.jpg,Normal,Normal,Normal,0.0819,0.7595388889312744,0.6261979937553406,0.09446129202842712,0.07789226621389389
+Datos/Training-validation/Earwax plug/e153.jpg,Earwax plug,Earwax plug,Earwax plug,0.0816,1.4992507696151733,1.4379827976226807,0.21560372412204742,0.19532398879528046
+Datos/Training-validation/Earwax plug/e135.jpg,Earwax plug,Earwax plug,Earwax plug,0.0814,0.881095290184021,0.8856804966926575,0.13249431550502777,0.13754157721996307
+Datos/Training-validation/Myringosclerosis/mi143.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0809,7.857956886291504,7.171219825744629,0.6934074759483337,0.7009486556053162
+Datos/Training-validation/Normal/n49.jpg,Normal,Normal,Normal,0.0742,1.408025860786438,1.2448105812072754,0.1844073385000229,0.16221719980239868
+Datos/Training-validation/Chronic otitis media/o24.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0729,1.6811097860336304,1.5497844219207764,0.1604485958814621,0.14316527545452118
+Datos/Training-validation/Myringosclerosis/mi154.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0724,9.985002517700195,9.082462310791016,0.7121005654335022,0.7469950914382935
+Datos/Testing/Myringosclerosis/mi25.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0706,0.8124715089797974,0.7827094197273254,0.09888329356908798,0.09677427262067795
+Datos/Training-validation/Earwax plug/e116.jpg,Earwax plug,Earwax plug,Earwax plug,0.0701,4.800568103790283,5.045293807983398,0.3210505247116089,0.3073332905769348
+Datos/Training-validation/Myringosclerosis/mi151.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0694,8.219401359558105,7.073487281799316,0.7142563462257385,0.7505314946174622
+Datos/Training-validation/Earwax plug/e134.jpg,Earwax plug,Earwax plug,Earwax plug,0.0694,0.9859412312507629,1.039217233657837,0.1530442088842392,0.16616353392601013
+Datos/Training-validation/Earwax plug/e133.jpg,Earwax plug,Earwax plug,Earwax plug,0.0681,0.9814990758895874,1.0483055114746094,0.13832086324691772,0.15763190388679504
+Datos/Testing/Normal/n34.jpg,Normal,Myringosclerosis,Myringosclerosis,0.068,4.633418560028076,3.975280523300171,0.39545994997024536,0.4172157645225525
+Datos/Training-validation/Earwax plug/e56.jpg,Earwax plug,Earwax plug,Earwax plug,0.0674,1.1871633529663086,1.0881898403167725,0.14884288609027863,0.1286710947751999
+Datos/Training-validation/Chronic otitis media/o172.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.067,0.8801981210708618,0.8769171237945557,0.11830539256334305,0.11249461024999619
+Datos/Testing/Chronic otitis media/o6.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.067,0.8801981210708618,0.8769171237945557,0.11830539256334305,0.11249461024999619
+Datos/Training-validation/Chronic otitis media/o132.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0665,0.8531774282455444,0.9863431453704834,0.09650079905986786,0.10794820636510849
+Datos/Testing/Chronic otitis media/o25.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0665,0.8531774282455444,0.9863431453704834,0.09650079905986786,0.10794820636510849
+Datos/Training-validation/Myringosclerosis/mi144.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0661,5.446563720703125,5.6940460205078125,0.7309055328369141,0.6948342323303223
+Datos/Training-validation/Earwax plug/e55.jpg,Earwax plug,Earwax plug,Earwax plug,0.0653,1.1561442613601685,1.0193328857421875,0.16002194583415985,0.131764218211174
+Datos/Testing/Normal/n5.jpg,Normal,Normal,Normal,0.0643,1.4025781154632568,1.4173245429992676,0.1502743363380432,0.16829417645931244
+Datos/Training-validation/Normal/n166.jpg,Normal,Normal,Normal,0.0618,0.8971282243728638,0.1507493555545807,0.0658777505159378,0.010452568531036377
+Datos/Testing/Earwax plug/e38.jpg,Earwax plug,Earwax plug,Earwax plug,0.0615,1.3492377996444702,1.3727282285690308,0.28807076811790466,0.2837185561656952
+Datos/Testing/Myringosclerosis/mi15.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0613,0.7147120237350464,0.7042604684829712,0.10813596844673157,0.09278678148984909
+Datos/Training-validation/Earwax plug/e54.jpg,Earwax plug,Earwax plug,Earwax plug,0.0598,1.3711402416229248,1.2200427055358887,0.1930115967988968,0.16125166416168213
+Datos/Training-validation/Normal/n132.jpg,Normal,Normal,Normal,0.0597,2.5979034900665283,2.077923536300659,0.2725282609462738,0.1647282987833023
+Datos/Testing/Normal/n29.jpg,Normal,Normal,Normal,0.0597,2.5979034900665283,2.077923536300659,0.2725282609462738,0.1647282987833023
+Datos/Training-validation/Normal/n66.jpg,Normal,Normal,Normal,0.0579,1.1984000205993652,1.1289393901824951,0.1915212720632553,0.17767785489559174
+Datos/Training-validation/Normal/n108.jpg,Normal,Normal,Normal,0.0567,3.1050634384155273,2.919867992401123,0.3245058059692383,0.3180798590183258
+Datos/Training-validation/Chronic otitis media/o168.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0567,0.7554658055305481,0.7190905213356018,0.09771809726953506,0.09478479623794556
+Datos/Training-validation/Myringosclerosis/mi145.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0559,6.306536674499512,6.107247829437256,0.626301109790802,0.668795645236969
+Datos/Training-validation/Myringosclerosis/mi64.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0554,5.779389381408691,5.412015438079834,0.6191987991333008,0.6817560791969299
+Datos/Testing/Myringosclerosis/mi26.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0554,5.779389381408691,5.412015438079834,0.6191987991333008,0.6817560791969299
+Datos/Training-validation/Normal/n152.jpg,Normal,Normal,Normal,0.055,3.1838650703430176,3.3018879890441895,0.2203723043203354,0.21367307007312775
+Datos/Training-validation/Normal/n109.jpg,Normal,Normal,Normal,0.0545,3.0189452171325684,2.96358585357666,0.3557734787464142,0.34735915064811707
+Datos/Testing/Earwax plug/e13.jpg,Earwax plug,Earwax plug,Earwax plug,0.0541,0.8716229200363159,0.938315212726593,0.14908264577388763,0.1656351238489151
+Datos/Training-validation/Normal/n153.jpg,Normal,Normal,Normal,0.0539,2.5969579219818115,2.5344557762145996,0.28321006894111633,0.22613950073719025
+Datos/Testing/Myringosclerosis/mi12.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0506,2.692728281021118,3.235048532485962,0.33881333470344543,0.3442646265029907
+Datos/Training-validation/Normal/n147.jpg,Normal,Normal,Normal,0.0472,2.4673051834106445,2.218693494796753,0.24731594324111938,0.22586631774902344
+Datos/Training-validation/Normal/n114.jpg,Normal,Normal,Normal,0.0471,4.307293891906738,4.2342047691345215,0.5209286212921143,0.5493915677070618
+Datos/Training-validation/Earwax plug/e62.jpg,Earwax plug,Earwax plug,Earwax plug,0.0468,0.1015273779630661,0.1874646544456482,0.011733226478099823,0.02323121577501297
+Datos/Training-validation/Normal/n146.jpg,Normal,Normal,Normal,0.046,1.680127501487732,1.1448267698287964,0.16081523895263672,0.09709399938583374
+Datos/Training-validation/Normal/n145.jpg,Normal,Normal,Normal,0.0452,1.085577368736267,1.3172767162322998,0.11184611916542053,0.11905528604984283
+Datos/Testing/Normal/n40.jpg,Normal,Normal,Normal,0.0452,1.085577368736267,1.3172767162322998,0.11184611916542053,0.11905528604984283
+Datos/Training-validation/Normal/n113.jpg,Normal,Normal,Normal,0.0447,4.399473667144775,4.400287628173828,0.5810770988464355,0.520616352558136
+Datos/Training-validation/Chronic otitis media/o37.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0445,2.7076778411865234,2.6379828453063965,0.27687308192253113,0.2641046941280365
+Datos/Testing/Chronic otitis media/o23.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0445,2.7076778411865234,2.6379828453063965,0.27687308192253113,0.2641046941280365
+Datos/Training-validation/Normal/n111.jpg,Normal,Normal,Normal,0.0391,6.3931965827941895,5.778636932373047,0.5900635719299316,0.582126259803772
+Datos/Testing/Normal/n6.jpg,Normal,Normal,Normal,0.0391,6.3931965827941895,5.778636932373047,0.5900635719299316,0.582126259803772
+Datos/Training-validation/Normal/n112.jpg,Normal,Normal,Normal,0.0383,4.131372451782227,3.952960729598999,0.5751298069953918,0.4625474810600281
+Datos/Training-validation/Normal/n110.jpg,Normal,Normal,Normal,0.038,5.2052130699157715,5.414709568023682,0.7115793228149414,0.6432458758354187
+Datos/Testing/Myringosclerosis/mi5.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0355,6.453102111816406,6.823008060455322,0.6130555868148804,0.6491154432296753
+Datos/Training-validation/Myringosclerosis/mi40.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.033,2.355229377746582,2.2049832344055176,0.37673699855804443,0.3964552879333496
+Datos/Training-validation/Myringosclerosis/mi173.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0329,2.2827329635620117,2.4309017658233643,0.3130662441253662,0.3156585097312927
+Datos/Training-validation/Normal/n33.jpg,Normal,Normal,Normal,0.0323,3.606597661972046,3.6440513134002686,0.3357661962509155,0.35859280824661255
+Datos/Training-validation/Myringosclerosis/mi176.jpg,Myringosclerosis,Chronic otitis media,Chronic otitis media,0.0323,0.969235897064209,0.9294553399085999,0.08847980201244354,0.08644413948059082
+Datos/Training-validation/Myringosclerosis/mi177.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0321,1.5764073133468628,1.6330223083496094,0.12695495784282684,0.14132706820964813
+Datos/Training-validation/Earwax plug/e74.jpg,Earwax plug,Earwax plug,Earwax plug,0.0302,4.710796356201172,4.385468006134033,0.5614209771156311,0.5264450907707214
+Datos/Testing/Normal/n18.jpg,Normal,Normal,Normal,0.0301,3.669769287109375,3.280541181564331,0.46720021963119507,0.44572994112968445
+Datos/Training-validation/Chronic otitis media/o4.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.03,0.8371462225914001,0.8147081732749939,0.1173657551407814,0.12338531017303467
+Datos/Training-validation/Myringosclerosis/mi42.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0297,2.7389743328094482,2.6685080528259277,0.3707374632358551,0.3564455509185791
+Datos/Training-validation/Earwax plug/e76.jpg,Earwax plug,Earwax plug,Earwax plug,0.0293,4.24321985244751,4.36522102355957,0.4139276444911957,0.46408799290657043
+Datos/Testing/Myringosclerosis/mi36.jpg,Myringosclerosis,Chronic otitis media,Chronic otitis media,0.029,1.3805480003356934,1.302992820739746,0.1455392986536026,0.11582005769014359
+Datos/Testing/Normal/n11.jpg,Normal,Normal,Normal,0.0286,4.308326721191406,3.2304165363311768,0.5052490830421448,0.34958770871162415
+Datos/Training-validation/Myringosclerosis/mi174.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0283,1.857483983039856,1.9850420951843262,0.1546027809381485,0.1772400587797165
+Datos/Testing/Myringosclerosis/mi3.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0283,1.857483983039856,1.9850420951843262,0.1546027809381485,0.1772400587797165
+Datos/Training-validation/Myringosclerosis/mi44.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0281,1.9429785013198853,1.7046089172363281,0.3432321846485138,0.2621791362762451
+Datos/Training-validation/Chronic otitis media/o48.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0278,5.915607452392578,5.805992603302002,0.41102319955825806,0.33956027030944824
+Datos/Training-validation/Myringosclerosis/mi45.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0267,1.8703373670578003,1.519736409187317,0.30806833505630493,0.24082806706428528
+Datos/Training-validation/Myringosclerosis/mi47.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0263,2.2814784049987793,1.9048593044281006,0.30971288681030273,0.30105653405189514
+Datos/Training-validation/Myringosclerosis/mi46.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.026,2.354407548904419,2.4293899536132812,0.3025191128253937,0.3410659730434418
+Datos/Training-validation/Normal/n121.jpg,Normal,Normal,Normal,0.0216,1.225296139717102,1.172322392463684,0.15109983086585999,0.15595115721225739
+Datos/Testing/Normal/n38.jpg,Normal,Normal,Normal,0.0216,1.225296139717102,1.172322392463684,0.15109983086585999,0.15595115721225739
+Datos/Training-validation/Chronic otitis media/o52.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0212,4.7157721519470215,4.15065860748291,0.4447838068008423,0.34411028027534485
+Datos/Training-validation/Myringosclerosis/mi57.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0196,2.110020637512207,1.7476112842559814,0.319889634847641,0.27411946654319763
+Datos/Training-validation/Chronic otitis media/o56.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0186,1.5754557847976685,1.5508861541748047,0.1563982516527176,0.15367624163627625
+Datos/Training-validation/Normal/n168.jpg,Normal,Normal,Normal,0.0168,0.8753164410591125,1.0373939275741577,0.12244222313165665,0.15377318859100342
+Datos/Training-validation/Myringosclerosis/mi32.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0166,2.5414650440216064,2.0593724250793457,0.33491751551628113,0.281747043132782
+Datos/Training-validation/Myringosclerosis/mi31.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0157,2.122281789779663,1.8190736770629883,0.3442160189151764,0.2985275983810425
+Datos/Training-validation/Myringosclerosis/mi33.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0153,1.478690505027771,1.4676671028137207,0.2548085153102875,0.2733653783798218
+Datos/Training-validation/Myringosclerosis/mi34.jpg,Myringosclerosis,Myringosclerosis,Myringosclerosis,0.0138,1.8482162952423096,1.9066559076309204,0.29123151302337646,0.32641837000846863
+Datos/Training-validation/Chronic otitis media/o113.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0129,1.102587103843689,0.924445629119873,0.11301951110363007,0.08650287985801697
+Datos/Training-validation/Chronic otitis media/o111.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0116,0.8363823294639587,0.6633219122886658,0.09114941209554672,0.06627597659826279
+Datos/Training-validation/Chronic otitis media/o116.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0103,0.8576165437698364,0.9908663630485535,0.08950763195753098,0.10043030232191086
+Datos/Training-validation/Chronic otitis media/o170.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0095,2.3798210620880127,2.1059789657592773,0.21794354915618896,0.20435628294944763
+Datos/Training-validation/Chronic otitis media/o10.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0093,1.7096633911132812,1.55552339553833,0.15919643640518188,0.14588531851768494
+Datos/Training-validation/Chronic otitis media/o112.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.009,0.8281324505805969,0.6236081719398499,0.0822136402130127,0.056576356291770935
+Datos/Training-validation/Chronic otitis media/o117.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0081,0.7728434801101685,0.6235238909721375,0.08982318639755249,0.06902989745140076
+Datos/Training-validation/Chronic otitis media/o114.jpg,Chronic otitis media,Chronic otitis media,Chronic otitis media,0.0076,1.017703890800476,0.8110863566398621,0.11029604077339172,0.08072006702423096
+Datos/Training-validation/Earwax plug/e73.jpg,Earwax plug,Earwax plug,Earwax plug,0.0073,6.208825588226318,6.158753395080566,0.6736689209938049,0.6644262671470642

@@ -1,0 +1,8 @@
+{
+  "n": 880,
+  "psnr_nonglare_masked": 42.8,
+  "psnr_nonglare_whole": 25.5,
+  "ident_pct_masked": 94.4,
+  "ssim_global_masked": 0.965,
+  "ssim_global_whole": 0.86
+}

@@ -1,0 +1,178 @@
+image,label,pred_original,pred_masked,pred_whole
+Datos\Training-validation\Chronic otitis media\o49.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o24.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o90.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o63.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o67.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o173.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o174.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o111.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o112.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o113.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o114.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o116.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o117.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o69.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o107.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o108.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o122.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o123.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o68.jpg,0,0,0,0
+Datos\Testing\Chronic otitis media\o13.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o135.jpg,0,0,0,0
+Datos\Testing\Chronic otitis media\o6.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o172.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o77.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o4.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o91.jpg,0,0,0,0
+Datos\Testing\Chronic otitis media\o25.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o132.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o56.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o48.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o40.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o10.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o170.jpg,0,0,0,0
+Datos\Testing\Chronic otitis media\o23.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o37.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o52.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o168.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o5.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o6.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o80.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o70.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o71.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o130.jpg,0,0,0,0
+Datos\Testing\Chronic otitis media\o26.jpg,0,0,0,0
+Datos\Training-validation\Chronic otitis media\o136.jpg,0,0,0,0
+Datos\Training-validation\Earwax plug\e42.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e26.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e39.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e73.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e74.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e76.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e133.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e134.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e11.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e11.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e93.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e153.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e19.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e12.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e25.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e170.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e55.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e56.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e38.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e116.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e104.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e97.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e177.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e62.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e160.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e40.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e135.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e31.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e180.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e128.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e146.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e66.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e101.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e35.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e32.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e33.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e34.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e35.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e37.jpg,1,1,1,1
+Datos\Testing\Earwax plug\e13.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e137.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e172.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e105.jpg,1,1,1,1
+Datos\Training-validation\Earwax plug\e54.jpg,1,1,1,1
+Datos\Training-validation\Myringosclerosis\mi151.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi153.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi31.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi32.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi33.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi34.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi42.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi44.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi45.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi46.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi47.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi57.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi12.jpg,2,2,3,3
+Datos\Testing\Myringosclerosis\mi25.jpg,2,2,2,1
+Datos\Training-validation\Myringosclerosis\mi173.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi5.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi9.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi156.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi34.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi149.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi150.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi3.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi36.jpg,2,0,2,2
+Datos\Training-validation\Myringosclerosis\mi174.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi176.jpg,2,0,2,2
+Datos\Training-validation\Myringosclerosis\mi177.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi15.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi7.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi40.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi148.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi145.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi1.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi96.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi97.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi144.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi77.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi143.jpg,2,2,2,2
+Datos\Testing\Myringosclerosis\mi26.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi64.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi26.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi37.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi163.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi15.jpg,2,2,2,2
+Datos\Training-validation\Myringosclerosis\mi154.jpg,2,2,2,2
+Datos\Training-validation\Normal\n108.jpg,3,3,3,3
+Datos\Training-validation\Normal\n109.jpg,3,3,3,3
+Datos\Training-validation\Normal\n177.jpg,3,3,3,3
+Datos\Testing\Normal\n34.jpg,3,2,3,2
+Datos\Testing\Normal\n40.jpg,3,3,3,3
+Datos\Training-validation\Normal\n145.jpg,3,3,3,3
+Datos\Training-validation\Normal\n146.jpg,3,3,3,3
+Datos\Training-validation\Normal\n147.jpg,3,3,3,3
+Datos\Training-validation\Normal\n165.jpg,3,3,2,3
+Datos\Testing\Normal\n35.jpg,3,3,3,3
+Datos\Testing\Normal\n38.jpg,3,3,3,3
+Datos\Training-validation\Normal\n121.jpg,3,3,3,3
+Datos\Training-validation\Normal\n169.jpg,3,3,2,2
+Datos\Training-validation\Normal\n170.jpg,3,3,2,3
+Datos\Training-validation\Normal\n171.jpg,3,3,2,2
+Datos\Training-validation\Normal\n166.jpg,3,3,3,3
+Datos\Training-validation\Normal\n168.jpg,3,3,3,3
+Datos\Training-validation\Normal\n61.jpg,3,3,3,3
+Datos\Training-validation\Normal\n62.jpg,3,3,3,3
+Datos\Training-validation\Normal\n63.jpg,3,3,3,3
+Datos\Training-validation\Normal\n64.jpg,3,3,3,3
+Datos\Training-validation\Normal\n65.jpg,3,3,3,3
+Datos\Testing\Normal\n18.jpg,3,3,3,3
+Datos\Testing\Normal\n11.jpg,3,3,3,3
+Datos\Testing\Normal\n29.jpg,3,3,3,3
+Datos\Training-validation\Normal\n132.jpg,3,3,3,3
+Datos\Training-validation\Normal\n49.jpg,3,3,3,3
+Datos\Training-validation\Normal\n100.jpg,3,3,3,3
+Datos\Training-validation\Normal\n101.jpg,3,3,3,3
+Datos\Training-validation\Normal\n102.jpg,3,3,3,3
+Datos\Training-validation\Normal\n105.jpg,3,3,3,3
+Datos\Training-validation\Normal\n152.jpg,3,3,3,0
+Datos\Training-validation\Normal\n153.jpg,3,3,3,3
+Datos\Training-validation\Normal\n66.jpg,3,3,3,3
+Datos\Testing\Normal\n5.jpg,3,3,3,3
+Datos\Testing\Normal\n16.jpg,3,3,3,3
+Datos\Testing\Normal\n6.jpg,3,3,3,3
+Datos\Training-validation\Normal\n110.jpg,3,3,3,3
+Datos\Training-validation\Normal\n111.jpg,3,3,3,3
+Datos\Training-validation\Normal\n112.jpg,3,3,3,3
+Datos\Training-validation\Normal\n113.jpg,3,3,3,3
+Datos\Training-validation\Normal\n114.jpg,3,3,3,3
+Datos\Training-validation\Normal\n163.jpg,3,3,3,3
+Datos\Training-validation\Normal\n33.jpg,3,3,3,3

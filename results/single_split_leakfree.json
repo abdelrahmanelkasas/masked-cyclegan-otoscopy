@@ -1,0 +1,223 @@
+{
+  "n_test": 177,
+  "conditions": {
+    "original": {
+      "accuracy": 0.9830508474576272,
+      "macro_f1": 0.9830709645177411,
+      "confusion_matrix": [
+        [
+          45,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          44,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          42,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          43
+        ]
+      ],
+      "per_class": [
+        {
+          "class": "Chronic otitis media",
+          "sensitivity": 1.0,
+          "specificity": 0.9848484848484849
+        },
+        {
+          "class": "Earwax plug",
+          "sensitivity": 1.0,
+          "specificity": 1.0
+        },
+        {
+          "class": "Myringosclerosis",
+          "sensitivity": 0.9545454545454546,
+          "specificity": 0.9924812030075187
+        },
+        {
+          "class": "Normal",
+          "sensitivity": 0.9772727272727273,
+          "specificity": 1.0
+        }
+      ]
+    },
+    "masked": {
+      "accuracy": 0.9717514124293786,
+      "macro_f1": 0.9715578539107952,
+      "confusion_matrix": [
+        [
+          45,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          44,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          43,
+          1
+        ],
+        [
+          0,
+          0,
+          4,
+          40
+        ]
+      ],
+      "per_class": [
+        {
+          "class": "Chronic otitis media",
+          "sensitivity": 1.0,
+          "specificity": 1.0
+        },
+        {
+          "class": "Earwax plug",
+          "sensitivity": 1.0,
+          "specificity": 1.0
+        },
+        {
+          "class": "Myringosclerosis",
+          "sensitivity": 0.9772727272727273,
+          "specificity": 0.9699248120300752
+        },
+        {
+          "class": "Normal",
+          "sensitivity": 0.9090909090909091,
+          "specificity": 0.9924812030075187
+        }
+      ]
+    },
+    "whole": {
+      "accuracy": 0.9661016949152542,
+      "macro_f1": 0.9656929323155363,
+      "confusion_matrix": [
+        [
+          45,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          44,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          42,
+          1
+        ],
+        [
+          1,
+          0,
+          3,
+          40
+        ]
+      ],
+      "per_class": [
+        {
+          "class": "Chronic otitis media",
+          "sensitivity": 1.0,
+          "specificity": 0.9924242424242424
+        },
+        {
+          "class": "Earwax plug",
+          "sensitivity": 1.0,
+          "specificity": 0.9924812030075187
+        },
+        {
+          "class": "Myringosclerosis",
+          "sensitivity": 0.9545454545454546,
+          "specificity": 0.9774436090225563
+        },
+        {
+          "class": "Normal",
+          "sensitivity": 0.9090909090909091,
+          "specificity": 0.9924812030075187
+        }
+      ]
+    }
+  },
+  "mcnemar_masked_vs_original": {
+    "a_correct_b_wrong": 3,
+    "a_wrong_b_correct": 5,
+    "p_exact": 0.7265625
+  },
+  "mcnemar_whole_vs_original": {
+    "a_correct_b_wrong": 2,
+    "a_wrong_b_correct": 5,
+    "p_exact": 0.453125
+  },
+  "mcnemar_masked_vs_whole": {
+    "a_correct_b_wrong": 3,
+    "a_wrong_b_correct": 2,
+    "p_exact": 1.0
+  },
+  "gradcam_all_test": {
+    "n": 177,
+    "orig_median": 1.45233952999115,
+    "orig_iqr": [
+      0.9559162855148315,
+      2.708475112915039
+    ],
+    "deg_median": 1.2724605798721313,
+    "deg_iqr": [
+      0.9271581768989563,
+      2.4871468544006348
+    ],
+    "orig_mean": 2.215740145557681,
+    "deg_mean": 2.1330908971317744,
+    "n_decreased": 103,
+    "n_orig_gt1": 126,
+    "n_deg_gt1": 121,
+    "wilcoxon_p": 0.004293637665549396
+  },
+  "gradcam_top12": {
+    "n": 12,
+    "orig_median": 0.9977687895298004,
+    "orig_iqr": [
+      0.4170745834708214,
+      1.5298778116703033
+    ],
+    "deg_median": 0.7046744525432587,
+    "deg_iqr": [
+      0.4132195711135864,
+      1.4911439418792725
+    ],
+    "orig_mean": 1.5297481914361317,
+    "deg_mean": 1.3042824839552243,
+    "n_decreased": 9,
+    "n_orig_gt1": 6,
+    "n_deg_gt1": 4,
+    "wilcoxon_p": 0.04248046875
+  },
+  "config": {
+    "gan_epochs": 60,
+    "gan_decay_start": 30,
+    "cls_epochs": 40,
+    "batch": 16,
+    "lr": 0.0001,
+    "workers": 2,
+    "max_per_domain": null
+  }
+}
