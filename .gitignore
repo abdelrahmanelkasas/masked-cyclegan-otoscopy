@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/eardrum_public_data/
+data/*_deglared*/
+data/cyclegan_*/
+checkpoints/
+results/perfold_work/
+results/single_split_work/
+results/gradcam/
+results/gradcam_v2/
+results/cyclegan_samples*/

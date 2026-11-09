@@ -1,0 +1,12 @@
+# Install PyTorch separately first (CUDA 12.1 build used in the study):
+#   pip install torch==2.5.1 torchvision --index-url https://download.pytorch.org/whl/cu121
+numpy
+scipy
+opencv-python
+pillow
+scikit-learn
+scikit-image
+matplotlib
+tqdm
+patool
+rarfile
